@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xWhaler🐳 --- Army veteran, father and scholar/practitioner.
+- 👋 Hi, I’m @xWhaler🐳 
 - 👀 I’m interested in SysOps Cloud & Virtualization 🤓
 - 🌱 I’m currently learning CIS and Business Intelligence
 - 💞️ I’m looking to collaborate on projects with anything involving Cloud Computing or Virtualization. 
