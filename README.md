@@ -12,11 +12,11 @@
         <li>Golang</li>
         <li>Python</li>
         <li>C++</li>
-        <li>AWS Cloud -- Network, Database, Lambdas, Compute, IAM and Auth</li>
+        <li>AWS Cloud -- Network, Database, Lambdas, etc.</li>
         <li>Software Design and Development</li>
-        <li>Research, Analysis and predictions with ML libraries</li>
-        <li>Database Development using SQL and NoSQL, Redis, DynamoDB </li>
-        <li>gPRC, HTTP/2, Websockets for web and Unix Socket programming with GO</li>
+        <li>Research, Analysis and predictions with Tensorflow, Pytorch</li>
+        <li>Database Development - SQL and NoSQL, Redis, DynamoDB </li>
+        <li>gPRC, HTTP/2, Websockets and Unix Socket programming</li>
         <li>Data pipelines and Agentic tools - ingestion, tokenization, embedding, vectors, etc. </li>
 </ul>
 
@@ -30,6 +30,7 @@
 </ul>
 
 - ⚡ Fun fact: I enjoy reading historical non-fiction and surfing 🏄‍♂️
+- 💚 My passion is systems design and API not so much frontend design.
 - 🎖️ Army Infantry veteran 🪖 served with 1st Cav - 1-12 Regiment. 🇺🇸 🇮🇶
 
  - 📫 How to reach me: email me at CamelByte@proton.me or thomsonk2@southernct.edu
