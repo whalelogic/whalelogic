@@ -1,11 +1,9 @@
 ## Welcome! 
 - 👋 I’m Keith - Founder of 🐋 WhalerSystems LLC, a cloud-solutions business in Connecticut, USA. 🐳 
-- 👀 I’m interested in research, devops, systems design and utility applications.
-- 🤓 I want to build awesome applications for users and superior tools for developers. 
-- 🌐 I love reading maps, studying geograophy and exploring little known regions of the world.
-- 😄 I'm a kind, compassionate guy with a strong desire to fulfill my obligations to my best ability, everyday.
-- 🚫 Never quit! Never give up! Set goals and stick to them!
-
+- I’m interested in research, devops, systems design and utility applications.
+- I design and implement efficient, broad use-case cloud solutions for small businesses and start-ups.
+- Data aggregation, pipeline and processing with vector databases and agents is helping users understand the underappreciated or undermined data.
+- My solutions can locate and transform unstructured, undermined <b>data</b> <em>and</em> <b>information</b> into profits 💸.   
 ## Skills and Stack
 
 <ul>
@@ -30,7 +28,7 @@
 </ul>
 
 - ⚡ Fun fact: I enjoy reading historical non-fiction and surfing 🏄‍♂️
-- 💚 My passion is developing Information Systems and API's as solutions to inefficient data collection and processing operations. My solutions aim to create a more robust, efficient and reliable system that can be deployed across a variety of use cases.  
+- My passion is developing Information Systems and API's as solutions to inefficient data collection and processing operations. My solutions aim to create a more robust, efficient and reliable system that can be deployed across a variety of use cases.  
 - 🎖️ US Army 🪖 Proudly served in the 1st Cav - 1-12 Regiment. 🇺🇸 🇮🇶
 
  - 📫 How to reach me: email me at CamelByte@proton.me or thomsonk2@southernct.edu
