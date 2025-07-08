@@ -25,12 +25,12 @@
 
 <ul>
         <li> A.S. Computer Science - Cloud Computing 👨‍🎓 </li>    
-        <li>B.S. Computer Science - Global Information Systems - 1 semester left!</li>
+        <li>B.S. Computer Science - Global Information Systems (Expected 2025)</li>
         <li>In the coming years my goal is to secure a Masters degree in Software Development. 🚀 </li>
 </ul>
 
 - ⚡ Fun fact: I enjoy reading historical non-fiction and surfing 🏄‍♂️
-- 💚 My passion is systems design and API not so much frontend design.
+- 💚 My passion is developing Information Systems and API's as solutions to inefficient data collection and processing operations. My solutions aim to create a more robust, efficient and reliable system that can be deployed across a variety of use cases.  
 - 🎖️ US Army 🪖 Proudly served in the 1st Cav - 1-12 Regiment. 🇺🇸 🇮🇶
 
  - 📫 How to reach me: email me at CamelByte@proton.me or thomsonk2@southernct.edu
