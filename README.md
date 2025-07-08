@@ -31,7 +31,7 @@
 
 - ⚡ Fun fact: I enjoy reading historical non-fiction and surfing 🏄‍♂️
 - 💚 My passion is systems design and API not so much frontend design.
-- 🎖️ Army Infantry veteran 🪖 served with 1st Cav - 1-12 Regiment. 🇺🇸 🇮🇶
+- 🎖️ US Army 🪖 Proudly served in the 1st Cav - 1-12 Regiment. 🇺🇸 🇮🇶
 
  - 📫 How to reach me: email me at CamelByte@proton.me or thomsonk2@southernct.edu
 
