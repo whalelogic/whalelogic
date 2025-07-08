@@ -1,5 +1,5 @@
 ## Welcome! 
-- 👋 I’m Keith - Founder of 🐋 WhalerResearch LLC, a Systems & Architecture Solutions provider in Connecticut, USA. 🐳 
+- 👋 I’m Keith - Founder of 🐋 WhalerSystems LLC, a cloud-solutions business in Connecticut, USA. 🐳 
 - 👀 I’m interested in research, devops, systems design and utility applications.
 - 🤓 I want to build awesome applications for users and superior tools for developers. 
 - 🌐 I love reading maps, studying geograophy and exploring little known regions of the world.
