@@ -39,6 +39,7 @@
 - Programming Rust - O'Reilly
 - Data Structures - The fun way
 - C++ for Dummies
+- SuperIntelligence - Nick Bostrom
 - Designing Data Intensive Applications
 - Clean Code - Great book outlining best practices and concepts to help you write <em>High Quality Code!</em>
 - Network Programming with Go
