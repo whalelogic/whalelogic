@@ -1,5 +1,5 @@
 ## Welcome! 
-- 👋 I’m Keith - Founder of 🐋 WhaleStack Labs - A Cloud-Native Systems Design Company in Connecticut, USA. 🐳 
+- 👋 I’m Keith - Founder of 🐋 WhaleNet Labs - A Cloud-Native Systems Design Company in Connecticut, USA. 🐳 
 - I’m interested in research, devops, systems design and utility applications.
 - I design and implement efficient, broad use-case cloud solutions for small businesses and start-ups.
 - Data aggregation, pipeline and processing with vector databases and agents is helping users understand the underappreciated or undermined data.
