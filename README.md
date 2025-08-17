@@ -23,7 +23,7 @@
 
 <ul>
         <li> A.S. Computer Science - Cloud Computing 👨‍🎓 </li>    
-        <li>B.S. Computer Science - Data Analyst </li>
+        <li>B.S. Computer Science - Information Systems </li>
         <li>In the coming years my goal is to secure a Masters degree in Software Development. 🚀 </li>
 </ul>
 
