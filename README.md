@@ -36,13 +36,12 @@
 - The Go Programming Language 
 - Programming Rust - O'Reilly
 - Data Structures - The fun way
-- C++ for Dummies
-- SuperIntelligence - Nick Bostrom (Interesting insights into philosphy and strategy of IS)
+- SuperIntelligence - Nick Bostrom (Insights into philosphy and ethics of humanity coexisting with superintelligent systems)
 - Nexus (Philosophy)
 - Designing Data Intensive Applications
 - Clean Code - Great book outlining best practices and concepts to help you write <em>High Quality Code!</em>
 - Network Programming with Go
-- Python for Data Science (dummies)
-- Pocket Bash Guide
+- Python for Data Science
+- C++ for Dummies
 - Deep Learning for Coders with fastai and PyTorch ⏩ 
   <p> Lots of free resources like Pythonds - Runestone Academy <link>https://runestone.academy/ns/books/published/pythonds/index.html</p></link> 
