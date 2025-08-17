@@ -1,7 +1,7 @@
 ## Welcome! 
-- 👋 I’m Keith - Founder of 🐋 WhaleLogic  <em>"Engineering intelligent, cloud-native systems of the highest quality for seamless data flow, autonomous decision-making, and next-generation information capture." </em>🐳 
-- I'm interested in Philosophy and concepts such as Entropy, Human-Machine Interaction, the History of Humanity.
-- Lately I've been reviewing Algorithms and ML Models for particular use cases. 
+- 👋 I’m Keith - Founder of 🐋 WhaleLogic  <em>"Engineering intelligent, cloud-native systems and software solutions for autonomous decision-making, smart home capabilities and next-generation information capture." </em>🐳 
+- I'm interested in building cloud-native microservices, Data pipelines and reliable REST API's. Recently, I began exploring GraphQL and Protobuf.
+- Lately I've started matching Algorithms and ML Models to particular use cases. I plan on building and sharing a trained model on HuggingFace/dontslamthedoor.
 - I design and implement efficient, broad use-case cloud solutions for small businesses and start-ups.
 <br>
 
