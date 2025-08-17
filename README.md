@@ -38,7 +38,7 @@
 - Data Structures - The fun way
 - C++ for Dummies
 - SuperIntelligence - Nick Bostrom (Interesting insights into philosphy and strategy of IS)
-- Nexus
+- Nexus (Philosophy)
 - Designing Data Intensive Applications
 - Clean Code - Great book outlining best practices and concepts to help you write <em>High Quality Code!</em>
 - Network Programming with Go
