@@ -31,7 +31,7 @@
 - 🎖️ US Army 🪖 Proudly served in the 1st Cav - 1-12 Regiment. 🇺🇸 🇮🇶
  - 📫 How to reach me: email me at CamelByte@proton.me or thomsonk2@southernct.edu
 
-## Books I found most helpful or just interesting 📗
+## Interesting Books 📗
 
 - The Go Programming Language 
 - Programming Rust - O'Reilly
