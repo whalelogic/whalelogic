@@ -12,7 +12,6 @@
         <li>Golang</li>
         <li>Python</li>
         <li>Certified C++ Developer, AWS Solutions Architect, CompTIA Cloud+</li>
-        <li>AWS Cloud, MS Azure</li>
         <li>Software Design and Development, Data and Information Strategy 🧑‍🚀, Project Management</li>
         <li>Research, Analysis and predictions with Tensorflow, Pytorch</li>
         <li>API & Database Development - MonogoDB, PostgreSQL, Redis, GraphQL, Parquet </li>
