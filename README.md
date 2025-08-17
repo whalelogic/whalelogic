@@ -1,8 +1,8 @@
 ## Welcome! 
-- 👋 I’m Keith - Founder of 🐋 WhaleLogic  <em>"Engineering intelligent, cloud-native systems and software solutions for autonomous decision-making, smart home capabilities and next-generation information capture." </em>🐳 
+- 👋 I’m Keith - Lifelong learner, military veteran and Founder of  <b>WhaleLogic</b> 🐋 <em>"Engineering intelligent, cloud-native systems and software solutions for autonomous decision-making, smart home capabilities and next-generation information capture." </em>
 - I'm interested in building cloud-native microservices, Data pipelines and reliable REST API's. Recently, I began exploring GraphQL and Protobuf.
 - Lately I've began matching datasets and ML models and algorithms for particular use cases. I plan on sharing a trained model soon on HuggingFace/dontslamthedoor.
-- My business designs, implements and administers efficient, broad use-case cloud solutions for small businesses and start-ups.
+- My business designs, implements and administers efficient and reliable cloud solutions for small businesses and start-ups.
 <br>
 
 
