@@ -29,7 +29,7 @@
         <li>Data pipelines and Agentic tools - ingestion, tokenization, embedding, vectors, etc. </li>
 </ul>
 
-## Certifcations
+## Certifcations 🔐
 
 <ul>
         <li>C++ Developer</li>
@@ -38,7 +38,7 @@
         <li>AWS Developer</li>
 </ul>
 
-## Education and Military Service
+## 🏫 Education and Military Service 🪖 🇺🇸
 
 
 <ul>
