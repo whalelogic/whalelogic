@@ -1,14 +1,44 @@
-## Welcome to the 🐳 WhaleLogic Repo!
-- 👋 I’m Keith - A Cloud Solutions Architect, Programmer, military veteran and Founder of  <b>WhaleLogic</b> 🐋 An IT Services company.
+# 🐋 WhaleLogic ☁️
 
-  
-- I'm interested in building cloud-native microservices, Data pipelines and reliable REST API's. Recently, I began exploring GraphQL and Protobuf.
-- Lately I've began matching datasets and ML models and algorithms for particular use cases. I plan on sharing a trained model soon on HuggingFace.co/dontslamthedoor.
+## Secure, cloud-native solutions for small businesses and smart homes
 
+### At WhaleLogic, we integrate data, networks, and cloud applications into practical, intelligent systems. From securing homes with smart devices to enabling small businesses with modern infrastructure, our mission is to make advanced technology accessible, reliable, and secure.
 
-### 🐋 WhaleLogic 〰️ designs, installs and administers a variety of efficient and reliable cloud solutions for smart homes, small businesses, and start-ups. These software and hardware solutions process data and network traffic in a private, reliable way and lets users easily control their own data. 
+## What We Do
 
-#### Services include browser-based 24/7 camera feeds with no subscription, smart sensor lighting, and smart home device setup. All data stays on-premises, with NAS storage for video and AI-powered alerts like object detection.
+- 📊 Data Pipelines & BI – Transform raw data into insights for business intelligence, knowledge bases, and advanced decision-making.
+
+- 🤖 AI & Agents – Build retrieval-augmented generation (RAG) pipelines, intelligent agents, and data-driven automations.
+
+- 🔐 APIs & Security – Design secure REST/GraphQL APIs and cloud-native services with end-to-end security.
+
+- 🏠 Smart Homes – Full-stack smart home integration:
+
+- 🔐 Smart locks & Google Nest
+
+- 💡 Sensor lighting & IoT automation
+
+- 🎥 Surveillance cameras & NAS storage
+
+- 🖥️ Networks & Hardware – Configure hardware, network routing, and hybrid systems for homes and small businesses.
+
+- 📡 Data Capture – Deploy systems that collect, process, and secure data from devices, sensors, and applications.
+
+## 🚀 Focus Areas
+
+- Small Business Cloud Applications
+
+- Smart Home Security, IoT & Automation
+
+- 🖧 Data Pipelines & Knowledge Systems
+
+- Secure REST/GraphQL API Development
+
+- Hardware + Networking Integration
+
+## 👨‍💻 Founder
+
+Keith Thomson (@WhalerLogic) — Army Veteran, Computer Science student, and builder of cloud-native systems, smart home integrations, and secure data pipelines.
 
 
 ## Technology and Skills 🥞
@@ -22,11 +52,13 @@
         <li>Google Cloud Platform</li>
         <li>Wireguard</li>
         <li>TCP, UNIX, HTTP/2, gRPC, Protobuf</li>
+        <li>OpenCV, PyTorch for Object Detection</li>
         <li>Certified C++ Developer, AWS Solutions Architect, CompTIA Cloud+</li>
         <li>Software Design and Development, Data and Information Strategy 🧑‍🚀, Project Management</li>
         <li>Research, Analysis and predictions with Tensorflow, Pytorch</li>
         <li>API & Database Development - MonogoDB, PostgreSQL, Redis, GraphQL, Parquet </li>
         <li>Data pipelines and Agentic tools - ingestion, tokenization, embedding, vectors, etc. </li>
+        <li>Machine Learning Models - Train/Test, Fine-tuning, RAG Agents, MCP Servers, RNN and CNN 🧠</li>
 </ul>
 
 ## Certifcations 🔐
