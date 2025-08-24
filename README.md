@@ -6,35 +6,33 @@
 
 ## What We Do
 
+- 🖥️ Networks & Hardware – Configure hardware, network routing, and hybrid systems for homes and small businesses.
+
 - 📊 Data Pipelines & BI – Transform raw data into insights for business intelligence, knowledge bases, and advanced decision-making.
 
 - 🤖 AI & Agents – Build retrieval-augmented generation (RAG) pipelines, intelligent agents, and data-driven automations.
 
 - 🔐 APIs & Security – Design secure REST/GraphQL APIs and cloud-native services with end-to-end security.
 
-- 🏠 Smart Homes – Full-stack smart home integration:
+- 👮 24/7 browser-based Security Camera Feed. Management Dashboard with object detection.
 
-- 🔐 Smart locks & Google Nest
+- ℹ️ Keep your data locally or go completely cloud-native! 😶‍🌫️
 
-- 💡 Sensor lighting & IoT automation
+- 🏠 Smart Homes – Full-stack smart home integration for Amazon Home e.g. Ring, Eero
+
+- 🔐 Smart locks & Google Nest Integration
+
+- 💡 Sensor lighting & IoT automation, Smart Environment Control
 
 - 🎥 Surveillance cameras & NAS storage
 
-- 🖥️ Networks & Hardware – Configure hardware, network routing, and hybrid systems for homes and small businesses.
-
 - 📡 Data Capture – Deploy systems that collect, process, and secure data from devices, sensors, and applications.
 
-## 🚀 Focus Areas
+- 🕴️ Small Business ☁️ Cloud Applications
 
-- Small Business Cloud Applications
+- 🧠 Smart Home Security, IoT & Automation
 
-- Smart Home Security, IoT & Automation
-
-- 🖧 Data Pipelines & Knowledge Systems
-
-- Secure REST/GraphQL API Development
-
-- Hardware + Networking Integration
+- 💻 Hardware + Networking Integration
 
 ## 👨‍💻 Founder
 
