@@ -8,7 +8,7 @@
 
 - 🖥️ Networks & Hardware – Configure hardware, network routing, and hybrid systems for homes and small businesses.
 
-- 📊 Data Pipelines & BI – Transform raw data into insights for business logic and intelligence, knowledge bases, and advanced decision-making.
+- 📊 Data Pipelines & BI – Transform raw data into insights for business intelligence, knowledge bases, and advanced decision-making.
 
 - 🤖 GenAI & Agents – Build retrieval-augmented generation (RAG) pipelines, intelligent agents, and data-driven automations.
 
