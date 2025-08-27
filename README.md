@@ -14,8 +14,6 @@
 
 - 🔐 APIs & Security – Design secure REST/GraphQL APIs and cloud-native services with end-to-end security.
 
-- 👮 24/7 browser-based Security Camera Feed. Management Dashboard with object detection.
-
 - ℹ️ Keep your data locally or go completely cloud-native! 😶‍🌫️
 
 - 🏠 Smart Homes – Full-stack smart home integration for Amazon Home e.g. Ring, Eero
