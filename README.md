@@ -44,14 +44,11 @@ Keith Thomson (@WhalerLogic) — Army Veteran, Computer Science student, and bui
 <ul>
         <li>Golang</li>
         <li>Python</li>
+        <li>OpenCV, PyTorch for Object Detection</li>
         <li>Docker</li>
-        <li>Kubernetes</li>
         <li>Amazon Web Services</li>
-        <li>Google Cloud Platform</li>
         <li>Wireguard</li>
         <li>TCP, UNIX, HTTP/2, gRPC, Protobuf</li>
-        <li>OpenCV, PyTorch for Object Detection</li>
-        <li>Certified C++ Developer, AWS Solutions Architect, CompTIA Cloud+</li>
         <li>Software Design and Development, Data and Information Strategy 🧑‍🚀, Project Management</li>
         <li>Research, Analysis and predictions with Tensorflow, Pytorch</li>
         <li>API & Database Development - MonogoDB, PostgreSQL, Redis, GraphQL, Parquet </li>
