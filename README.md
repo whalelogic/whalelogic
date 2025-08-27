@@ -1,10 +1,9 @@
-# 🐋 WhaleLogic ☁️
+# WhaleLogic ☁️ 🌊 ✔️ 
 
-## Secure, cloud-native solutions for small businesses and smart homes
 
-### At WhaleLogic, we integrate data, networks, and cloud applications into practical, intelligent systems. From securing homes with smart devices to enabling small businesses with modern infrastructure, our mission is to make advanced technology accessible, reliable, and secure.
+#### From Securing Homes with 🧠 Smart devices to enabling Businesses with modern and automated infrastructure 🏗️ Our mission is to make advanced technology accessible, reliable, and secure. 🔐
 
-## What We Do
+## Services Provided 🐕‍🦺
 
 - 🖥️ Networks & Hardware – Configure hardware, network routing, and hybrid systems for homes and small businesses
 
@@ -14,25 +13,23 @@
 
 - 🔐 APIs & Security – Design secure REST/GraphQL APIs and cloud-native services with end-to-end security
 
-- ℹ️ Keep your data locally or go completely cloud-native! 😶‍🌫️
+- ℹ️ Keep your data **Local** or go completely 😶‍🌫️ **Cloud-Native!** 
 
-- 🏠 Smart Homes – Full-stack smart home integration for Amazon Home e.g. Ring, Eero
+- 🏠 Smart Homes – Full-stack Smart Home Integration for 🔒 Security, 🕸️ IoT and 🤖 Automated Environment
 
-- 🔐 Smart locks & Google Nest Integration
+- 🔐 Smart locks & Google Nest Integration, Amazon Home (Ring, Eero) 
 
-- 💡 Sensor lighting & IoT automation, Smart Environment Control
+- 💡 Sensor lighting & IoT automation, Smart Environment Control 
 
-- 🎥 24/7 Browser-based Surveillance cameras with live streaming, Object-detection and NAS storage
+- 🎥 24/7 Browser-based Surveillance cameras with live streaming, Object-detection 🔳 and NAS storage 📹
 
-- 📡 Data Capture – Deploy systems that collect, process, and secure data from devices, sensors, and applications
+- 📡 Data Capture – Deploying systems in which Edge devices synchronously and automatically collect, process and store data - ZigBee 🐝
 
-- 🕴️ Small Business ☁️ Cloud Applications
+- 🌥️ Cloud Engineering, B2B Soluions
 
-- 🧠 Smart Home Security, IoT & Automation
+- 🔓 Authentication Services provide Biometric devices for Identity Management along with a Database.
 
-- 💻 Hardware + Networking Integration
-
-- 🌥️ Cloud Engineering, Soluions Design, Development and Administration
+- 👌 Fully operational solutions ready to ship! 🚢
 
 ## 👨‍💻 Founder
 
@@ -71,8 +68,8 @@ Keith Thomson (@WhalerLogic) — Army Veteran, Computer Science student, and bui
 <ul>
         <li> A.S. Computer Science - Cloud Computing 👨‍🎓 </li>    
         <li>B.S. Computer Science - Information Systems </li>
-        <li>🎖️ US Army 🪖 Proudly served in the 1st Cav - 1-12 Regiment. 🇺🇸 🇮🇶</li>
-        <li>In the coming years my goal is to secure a Masters degree in Software Development. 🚀 </li>
+        <li>🎖️ US Army 🪖 Proudly served in the 1st Cav 🇺🇸 🇮🇶</li>
+        <li>Short-term Goal - Secure a Masters degree in Software Development. 🚀 </li>
 </ul>
 
 📫 How to reach me: email me at CamelByte@proton.me or thomsonk2@southernct.edu
