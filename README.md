@@ -6,13 +6,13 @@
 
 ## What We Do
 
-- 🖥️ Networks & Hardware – Configure hardware, network routing, and hybrid systems for homes and small businesses.
+- 🖥️ Networks & Hardware – Configure hardware, network routing, and hybrid systems for homes and small businesses
 
-- 📊 Data Pipelines & BI – Transform raw data into insights for business intelligence, knowledge bases, and advanced decision-making.
+- 📊 Data Pipelines & BI – Transform raw data into insights for business intelligence, knowledge bases, and advanced decision-making
 
-- 🤖 GenAI & Agents – Build retrieval-augmented generation (RAG) pipelines, intelligent agents, and data-driven automations.
+- 🤖 GenAI & Agents – Build retrieval-augmented generation (RAG) pipelines, intelligent agents, and data-driven automations
 
-- 🔐 APIs & Security – Design secure REST/GraphQL APIs and cloud-native services with end-to-end security.
+- 🔐 APIs & Security – Design secure REST/GraphQL APIs and cloud-native services with end-to-end security
 
 - ℹ️ Keep your data locally or go completely cloud-native! 😶‍🌫️
 
@@ -24,13 +24,15 @@
 
 - 🎥 24/7 Browser-based Surveillance cameras with live streaming, Object-detection and NAS storage
 
-- 📡 Data Capture – Deploy systems that collect, process, and secure data from devices, sensors, and applications.
+- 📡 Data Capture – Deploy systems that collect, process, and secure data from devices, sensors, and applications
 
 - 🕴️ Small Business ☁️ Cloud Applications
 
 - 🧠 Smart Home Security, IoT & Automation
 
 - 💻 Hardware + Networking Integration
+
+- 🌥️ Cloud Engineering, Soluions Design, Development and Administration
 
 ## 👨‍💻 Founder
 
