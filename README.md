@@ -8,7 +8,7 @@
 
 - 🖥️ Networks & Hardware – Configure hardware, network routing, and hybrid systems for homes and small businesses.
 
-- 📊 Data Pipelines & BI – Transform raw data into insights for business intelligence, knowledge bases, and advanced decision-making.
+- 📊 Data Pipelines & BI – Transform raw data into insights for business logic and intelligence, knowledge bases, and advanced decision-making.
 
 - 🤖 GenAI & Agents – Build retrieval-augmented generation (RAG) pipelines, intelligent agents, and data-driven automations.
 
@@ -24,7 +24,7 @@
 
 - 💡 Sensor lighting & IoT automation, Smart Environment Control
 
-- 🎥 Surveillance cameras & NAS storage
+- 🎥 24/7 Browser-based Surveillance cameras with live streaming, Object-detection and NAS storage
 
 - 📡 Data Capture – Deploy systems that collect, process, and secure data from devices, sensors, and applications.
 
@@ -44,7 +44,7 @@ Keith Thomson (@WhalerLogic) — Army Veteran, Computer Science student, and bui
 <ul>
         <li>Golang</li>
         <li>Python</li>
-        <li>OpenCV, PyTorch for Object Detection</li>
+        <li>OpenCV, PyTorch, Tensorflow</li>
         <li>Docker</li>
         <li>Amazon Web Services</li>
         <li>Wireguard</li>
