@@ -10,7 +10,7 @@
 
 - 📊 Data Pipelines & BI – Transform raw data into insights for business intelligence, knowledge bases, and advanced decision-making.
 
-- 🤖 AI & Agents – Build retrieval-augmented generation (RAG) pipelines, intelligent agents, and data-driven automations.
+- 🤖 GenAI & Agents – Build retrieval-augmented generation (RAG) pipelines, intelligent agents, and data-driven automations.
 
 - 🔐 APIs & Security – Design secure REST/GraphQL APIs and cloud-native services with end-to-end security.
 
