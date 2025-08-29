@@ -1,4 +1,4 @@
-# WhaleLogic ☁️ 🌊 ✔️ 
+# WhaleLogic ☁️ 🌊 
 
 
 #### From Securing Homes with 🧠 Smart devices to enabling Businesses with modern and automated infrastructure 🏗️ Our mission is to make advanced technology accessible, reliable, and secure. 🔐
@@ -81,7 +81,7 @@ Keith Thomson (@WhalerLogic) — Army Veteran, Computer Science student, and bui
 - Data Structures - The fun way
 - The Nature of Code - Simulating Natural Systems
 - SuperIntelligence - Nick Bostrom (Insights into philosphy and ethics of humanity coexisting with superintelligent systems)
-- Nexus - A brief history of Information Networks from the Stone Age to AI Yuval Noah Harari
+- Nexus - A brief history of Information Networks from the Stone Age to AI - Yuval Noah Harari
 - Designing Data Intensive Applications
 - Clean Code - Great book outlining best practices and concepts
 - Network Programming with Go
