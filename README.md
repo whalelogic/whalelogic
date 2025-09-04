@@ -1,42 +1,52 @@
-# WhaleLogic ☁️ 🌊 
+# WhaleLogic 🌊 
+
+Welcome to my repo! 
+
+### I'm Keith 👉 _Security-focused Full-Stack Software Engineer and Systems Developer._ 
+<div class="flex">
+<img src="golang.svg" alt="Alt text" width="120" height="90"/>
+<img src="c++.svg" alt="Alt text" width="120" height="80"/>
+<img src="ansible.svg" alt="Alt text" width="120" height="80"/>
+<img src="icons8-aws-64.svg" alt="Alt text" width="120" height="80"/>
+<img src="icons8-python-188.png" alt="Alt text" width="80" height="80"/>
+<img src="icons8-javascript.gif" alt="Alt text" width="80" height="80"/>
+</div>
+
+## What I'm doing 🚶‍♂️
 
 
-#### Security-focused Systems Developer and Data Analyst. 
+- 🏏 Application and Database Design, Development and Testing
 
-## Skills ⛷️
+- ☁️ Cloud Architecture, Network Design and Serverless Solutions 
 
-- 🖥️ Networks & Hardware – Configure hardware, network routing, and hybrid systems for homes and small businesses
+- 🪄 SageMaker and VertexAI
 
-- 📊 Data Pipelines & BI – Transform raw data into insights for business intelligence, knowledge bases, and advanced decision-making
+- 🔵 Google Big Query
+
+- 🪐 Jupyter Notebooks, Tensorflow, Keras, Machine Learning Algorithms KNN, CNN, etc.
+
+- 🗃️ Container-based Deployment Administration with 🐳 Docker and Kubernetes
+
+- 🖌️ Software Design and Development
 
 - 🤖 GenAI & Agents – Build retrieval-augmented generation (RAG) pipelines, intelligent agents, and data-driven automations
 
 - 🔐 APIs & Security – Design secure REST/GraphQL APIs and cloud-native services with end-to-end security
 
-- ℹ️ Keep your data **Local** or go completely 😶‍🌫️ **Cloud-Native!** 
-
-- 🏠 Smart Homes – Full-stack Smart Home Integration for 🔒 Security, 🕸️ IoT and 🤖 Automated Environment
-
-- 🔐 Smart locks & Google Nest Integration, Amazon Home (Ring, Eero) 
-
-- 💡 Sensor lighting & IoT automation, Smart Environment Control 
-
-- 🎥 24/7 Browser-based Surveillance cameras with live streaming, Object-detection 🔳 and NAS storage 📹
-
 - 📡 Data Capture – Deploying systems in which Edge devices synchronously and automatically collect, process and store data - ZigBee 🐝
 
-- 🌥️ Cloud Engineering, B2B Soluions
+- 🌥️ Cloud Engineering, B2B Soluions. AWS Solutions - Networking Design, AWS EBS, Compute, IAM, Route 53, S3, etc
 
-- 🔓 Authentication Services provide Biometric devices for Identity Management along with a Database.
+- 🔓 Authentication Services
 
 - 👌 Fully operational solutions ready to ship! 🚢
 
 ## 👨‍💻 Founder
 
-Keith Thomson (@WhalerLogic) — Army Veteran, Computer Science student, and builder of cloud-native systems, smart home integrations, and secure data pipelines.
+Keith Thomson (@WhalerLogic) 
 
 
-## Technology and Skills 🥞
+## More Technology and Skills 🥞
 
 <ul>
         <li>Golang</li>
