@@ -59,7 +59,7 @@ Keith Thomson (@WhalerLogic)
         <li>Linux Professional</li>
 </ul>
 
-## Certifcations 🔐
+## Certifcations ☑️
 
 <ul>
         <li>C++ Developer</li>
