@@ -2,7 +2,7 @@
 
 Welcome to my repo! 
 
-### I'm Keith 👉 _Security-focused Full-Stack Developer and Cloud Engineer._ 
+### I'm Keith 👉 _Security-focused Developer and Cloud Engineer._ 
 <div class="flex">
 <img src="golang.svg" alt="Alt text" width="120" height="90"/>
 <img src="c++.svg" alt="Alt text" width="120" height="80"/>
