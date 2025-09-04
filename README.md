@@ -1,9 +1,9 @@
 # WhaleLogic ☁️ 🌊 
 
 
-#### From Securing Homes with 🧠 Smart devices to enabling Businesses with modern and automated infrastructure 🏗️ Our mission is to make advanced technology accessible, reliable, and secure. 🔐
+#### Security-focused Systems Developer and Data Analyst. 
 
-## Services Provided 🐕‍🦺
+## Skills ⛷️
 
 - 🖥️ Networks & Hardware – Configure hardware, network routing, and hybrid systems for homes and small businesses
 
