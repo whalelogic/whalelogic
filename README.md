@@ -9,7 +9,6 @@ Welcome to my repo!
 <img src="ansible.svg" alt="Alt text" width="120" height="80"/>
 <img src="icons8-aws-64.svg" alt="Alt text" width="120" height="80"/>
 <img src="icons8-python-188.png" alt="Alt text" width="80" height="80"/>
-<img src="icons8-javascript.gif" alt="Alt text" width="80" height="80"/>
 </div>
 
 ## What I'm doing 🚶‍♂️
@@ -29,13 +28,13 @@ Welcome to my repo!
 
 - 🖌️ Software Design and Development
 
-- 🤖 GenAI & Agents – Build retrieval-augmented generation (RAG) pipelines, intelligent agents, and data-driven automations
+- 🤖 GenAI & Agents – Retrieval-augmented generation (RAG) pipelines, intelligent agents, MCP Servers and data-driven automations
 
 - 🔐 APIs & Security – Design secure REST/GraphQL APIs and cloud-native services with end-to-end security
 
 - 📡 Data Capture – Deploying systems in which Edge devices synchronously and automatically collect, process and store data - ZigBee 🐝
 
-- 🌥️ Cloud Engineering, B2B Soluions. AWS Solutions - Networking Design, AWS EBS, Compute, IAM, Route 53, S3, etc
+- 🌥️ Cloud Engineering - AWS Solutions - Networking Design, AWS EBS, Compute, IAM, Route 53, S3, etc.
 
 - 🔓 Authentication Services
 
@@ -49,18 +48,15 @@ Keith Thomson (@WhalerLogic)
 ## More Technology and Skills 🥞
 
 <ul>
-        <li>Golang</li>
-        <li>Python</li>
-        <li>OpenCV, PyTorch, Tensorflow</li>
-        <li>Docker</li>
+        <li>Client/Server Programming</li>
+        <li>Frontend - Vue.js</li>
+        <li>OpenCV, PyTorch, Tensorflow, Keras</li>
+        <li>Docker & Docker Compose</li>
         <li>Amazon Web Services</li>
         <li>Wireguard</li>
-        <li>TCP, UNIX, HTTP/2, gRPC, Protobuf</li>
-        <li>Software Design and Development, Data and Information Strategy 🧑‍🚀, Project Management</li>
-        <li>Research, Analysis and predictions with Tensorflow, Pytorch</li>
-        <li>API & Database Development - MonogoDB, PostgreSQL, Redis, GraphQL, Parquet </li>
-        <li>Data pipelines and Agentic tools - ingestion, tokenization, embedding, vectors, etc. </li>
-        <li>Machine Learning Models - Train/Test, Fine-tuning, RAG Agents, MCP Servers, RNN and CNN 🧠</li>
+        <li>TCP, UNIX, HTTP/2, gRPC, Websocket</li>
+        <li>BurpSuite, WireShark</li>
+        <li>Linux Professional</li>
 </ul>
 
 ## Certifcations 🔐
