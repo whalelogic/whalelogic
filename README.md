@@ -2,7 +2,7 @@
 
 Welcome to my repo! 
 
-### I'm Keith 👉 _Security-focused Developer and Cloud Engineer._ 
+### I'm Keith 👉 _Motivated & Security-focused Systems Developer and Cloud Engineer._ 
 <div class="flex">
 <img src="golang.svg" alt="Alt text" width="120" height="90"/>
 <img src="c++.svg" alt="Alt text" width="120" height="80"/>
@@ -16,23 +16,25 @@ Welcome to my repo!
 
 - 🏏 Application and Database Design, Development and Testing
 
-- ☁️ Cloud Architecture, Network Design and Serverless Solutions 
+- ☁️ Cloud Architecture, Network Design and Serverless Solutions
+  
+- ⚗️ Designing and maintaining reliable Data Pipelines using best practices for data integrity and scalability.
 
-- 🪄 SageMaker and VertexAI
+- 🪄 SageMaker or VertexAI for building AI Applications
 
-- 🔵 Google Big Query
+- 🪐 AI/ML and Deep Learning - Tensorflow, Keras, vLLM, PyTorch and more!
 
-- 🪐 Jupyter Notebooks, Tensorflow, Keras, Machine Learning Algorithms KNN, CNN, etc.
+- 🤖 Robotics and Process Automation
 
 - 🗃️ Container-based Deployment Administration with 🐳 Docker and Kubernetes
 
 - 🖌️ Software Design and Development
 
-- 🤖 GenAI & Agents – Retrieval-augmented generation (RAG) pipelines, intelligent agents, MCP Servers and data-driven automations
+- 🤖 Multi-Modal Agents – Retrieval-augmented generation (RAG) pipelines, intelligent agents, MCP Servers and data-driven automations
 
 - 🔐 APIs & Security – Design secure REST/GraphQL APIs and cloud-native services with end-to-end security
 
-- 📡 Data Capture – Deploying systems in which Edge devices synchronously and automatically collect, process and store data - ZigBee 🐝
+- 📡 Data Capture – Deploying systems in which Edge devices synchronously and automatically collect, process and store data
 
 - 🌥️ Cloud Engineering - AWS Solutions - Networking Design, AWS EBS, Compute, IAM, Route 53, S3, etc.
 
