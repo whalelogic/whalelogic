@@ -1,21 +1,47 @@
-# WhaleLogic 🌊
+# 🌊 WhaleLogic  
 
+### ⭐ *Motivated Systems Developer & Cloud Engineer* ⭐  
 
-### ⭐ _Motivated Systems Developer and Cloud Engineer._ ⭐
-<br>
-<br>
+---
 
-<div class="flex-row">
-<img src="gopher.svg" alt="Alt text" width="120" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="120" height="90"/>
-<img src="ansible.svg" alt="Alt text" width="120" height="90"/>
-<img src="icons8-aws-64.svg" alt="Alt text" width="100" height="90"/>
-<img src="icons8-python-188.png" alt="Alt text" width="100" height="90"/>
-</div>
-<br>
-<br>
+## 🐋 About Me  
+I build **scalable systems and cloud-native applications** with a focus on:  
+- ⚙️ Distributed & reliable software  
+- ☁️ Cloud infrastructure and automation  
+- 🧠 AI-driven applications and agents
+- 🍍 Data-Intensive Applications
+- 🛩️ Micro-Services Development
+- 💂‍♂️ Security, Authentication and Identity Management
 
-## What I'm doing 🚶‍♂️
+---
+
+## 🚀 Tech Stack  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="110" height="90" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="110" height="90" alt="Python"/>
+  <img src="ansible.svg" width="110" height="90" alt="Ansible"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="110" height="90" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="110" height="90" alt="Rust"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="110" height="90" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" width="100" height="90" alt="gRPC"/>
+</p>
+
+---
+
+## 🔑 Core Skills  
+- ⚗️ **Best Data Practices** — ETL pipelines, migrations, redundancy, normalization  
+- 🐳 **Cloud & Containers** — Docker, Kubernetes, AWS  
+- 📡 **APIs & Services** — gRPC, REST, GraphQL  
+- 🦀 **Systems Development** — Go, Rust, Python  
+- 🛠 **Automation & IaC** — Ansible, Terraform  
+
+---
+
+## 🌟 Motto  
+> *“Simplicity, reliability, and scalability — build once, build right.”*
+
+## Extended List of Skills and Abilities 
 
 
 - 🏏 Application and Database Design, Development and Testing
@@ -46,25 +72,10 @@
 
 - 👌 Fully operational solutions ready to ship! 🚢
 
-## 👨‍💻 Founder
-
-Keith Thomson (@WhalerLogic) 
+- 👭 Client-Server Programming
 
 
-## More Technology and Skills 🥞
-
-<ul>
-        <li>Client/Server Programming</li>
-        <li>Frontend - Vue.js</li>
-        <li>OpenCV, PyTorch, Tensorflow, Keras</li>
-        <li>Docker & Docker Compose</li>
-        <li>Amazon Web Services</li>
-        <li>Wireguard</li>
-        <li>TCP, UNIX, HTTP/2, gRPC, Websocket</li>
-        <li>BurpSuite, WireShark</li>
-        <li>Linux Professional</li>
-</ul>
-
+  
 ## Certifcations ☑️
 
 <ul>
