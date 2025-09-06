@@ -1,15 +1,19 @@
-# WhaleLogic 🌊 
+# WhaleLogic 🌊
 
-Welcome to my repo! 
 
-### I'm Keith 👉 _Motivated & Security-focused Systems Developer and Cloud Engineer._ 
-<div class="flex">
-<img src="golang.svg" alt="Alt text" width="120" height="90"/>
-<img src="c++.svg" alt="Alt text" width="120" height="80"/>
-<img src="ansible.svg" alt="Alt text" width="120" height="80"/>
-<img src="icons8-aws-64.svg" alt="Alt text" width="120" height="80"/>
-<img src="icons8-python-188.png" alt="Alt text" width="80" height="80"/>
+### ⭐ _Motivated Systems Developer and Cloud Engineer._ ⭐
+<br>
+<br>
+
+<div class="flex-row">
+<img src="gopher.svg" alt="Alt text" width="120" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="120" height="90"/>
+<img src="ansible.svg" alt="Alt text" width="120" height="90"/>
+<img src="icons8-aws-64.svg" alt="Alt text" width="100" height="90"/>
+<img src="icons8-python-188.png" alt="Alt text" width="100" height="90"/>
 </div>
+<br>
+<br>
 
 ## What I'm doing 🚶‍♂️
 
