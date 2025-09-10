@@ -6,11 +6,14 @@
 
 ## 🐋 About Me  
 
-I build **scalable systems and cloud-native applications** with a focus on:  
+I build **Scalable Systems and Cloud-native Solutions** with a focus on:  
 
 - ⌨️ Functional and Network Programming 
-- ☁️ Cloud Solutions for AWS 🛩️ Micro-Services
-- 🧠 Nueral Networks, Data Pipelines, Machine Learning and AI
+- 🧪 Data Pipelines
+- 🛩️ IoT, Edge Devices, Remote solutions
+- 📰 Information Systems for Finance & eBusiness 
+- 🫧 Micro-Services Architecture 
+- 🧠 Nueral Networks, Machine Learning and AI
 
 
 #### Languages and Frameworks  
