@@ -47,30 +47,14 @@ I build **scalable systems and cloud-native applications** with a focus on:
 - 🏏 Application and Database Design, Development and Testing
 
 - ☁️ Cloud Architecture, Network Design and Serverless Solutions
-  
-- ⚗️ Designing and maintaining reliable Data Pipelines using best practices for data integrity and scalability.
 
-- 🪄 SageMaker or VertexAI for building AI Applications
-
-- 🪐 AI/ML and Deep Learning - Tensorflow, Keras, vLLM, PyTorch and more!
-
-- 🤖 Robotics and Process Automation
-
-- 🗃️ Container-based Deployment Administration with 🐳 Docker and Kubernetes
+- 🪐 AI/ML and Deep Learning
 
 - 🖌️ Software Design and Development
 
-- 🤖 Multi-Modal Agents – Retrieval-augmented generation (RAG) pipelines, intelligent agents, MCP Servers and data-driven automations
-
-- 🔐 APIs & Security – Design secure REST/GraphQL APIs and cloud-native services with end-to-end security
-
-- 📡 Data Capture – Deploying systems in which Edge devices synchronously and automatically collect, process and store data
-
-- 🌥️ Cloud Engineering - AWS Solutions - Networking Design, AWS EBS, Compute, IAM, Route 53, S3, etc.
+- 📡 Data Capture – Deploying Edge devices synchronously and automatically collect, process and store data
 
 - 🔓 Authentication Services
-
-- 👌 Fully operational solutions ready to ship! 🚢
 
 - 👭 Client-Server Programming
 
@@ -90,9 +74,8 @@ I build **scalable systems and cloud-native applications** with a focus on:
 
 <ul>
         <li> A.S. Computer Science - Cloud Computing 👨‍🎓 </li>    
-        <li>B.S. Computer Science - Information Systems </li>
-        <li>🎖️ US Army 🪖 Proudly served in the 1st Cav 🇺🇸 🇮🇶</li>
-        <li>Short-term Goal - Secure a Masters degree in Software Development. 🚀 </li>
+        <li>B.S. Computer Science - Information Systems <em>Expected this Spring</em></li>
+        <li>🎖️ US Army Veteran 🪖 1st Cav 🇺🇸 🇮🇶 </li>
 </ul>
 
 📫 How to reach me: email me at CamelByte@proton.me or thomsonk2@southernct.edu
