@@ -6,14 +6,21 @@
 
 ## 🐋 About Me  
 I build **scalable systems and cloud-native applications** with a focus on:  
-- ⚙️ Distributed & reliable software  
-- ☁️ Cloud infrastructure and automation  
-- 🧠 AI-driven applications and agents
-- 🍍 Data-Intensive Applications
+- ⚙️ Distributed and Parallel Computing
+- ☁️ Cloud Solutions, IaaS and Automation tools for AWS, Google Cloud   
+- 🧠 Deep Learning, Multi-Modal Agents, MCP Servers
+- 🍍 Data-Intensive Web Applications - Django mostly 
 - 🛩️ Micro-Services
-- 💂‍♂️ Security, Authentication and Identity Management
+- 🕸️ API Development and Testing
+- 🚁 Client-Server Programming and Web Development
 
----
+#### Languages and Frameworks  
+> 
+
+1. Go
+2. Python
+4. 🏃‍♂️ FastAPI, Flask
+5. 🍋 Gin or other Go routers
 
 ## 🚀 Tech Stack  
 
@@ -29,19 +36,10 @@ I build **scalable systems and cloud-native applications** with a focus on:
 
 ---
 
-## 🔑 Core Skills  
-- ⚗️ **Best Data Practices** — ETL pipelines, migrations, redundancy, normalization  
-- 🐳 **Cloud & Containers** — Docker, Kubernetes, AWS  
-- 📡 **APIs & Services** — gRPC, REST, GraphQL  
-- 🦀 **Systems Development** — Go, Rust, Python  
-- 🛠 **Automation & IaC** — Ansible, Terraform  
-
----
-
 ## 🌟 Motto  
 > *“Simplicity, reliability, and scalability — build once, build right.”*
 
-## Extended List of Skills and Abilities 
+## Techonology Approaches 
 
 
 - 🏏 Application and Database Design, Development and Testing
@@ -49,6 +47,10 @@ I build **scalable systems and cloud-native applications** with a focus on:
 - ☁️ Cloud Architecture, Network Design and Serverless Solutions
 
 - 🪐 AI/ML and Deep Learning
+
+-  🦀 **Systems Development** — Go, Rust, Python
+    
+- 🛠 **Automation & IaC** — Ansible, Terraform  
 
 - 🖌️ Software Design and Development
 
