@@ -5,22 +5,20 @@
 ---
 
 ## 🐋 About Me  
+
 I build **scalable systems and cloud-native applications** with a focus on:  
-- ⚙️ Distributed and Parallel Computing
-- ☁️ Cloud Solutions, IaaS and Automation tools for AWS, Google Cloud   
-- 🧠 Deep Learning, Multi-Modal Agents, MCP Servers
-- 🍍 Data-Intensive Web Applications - Django mostly 
-- 🛩️ Micro-Services
-- 🕸️ API Development and Testing
-- 🚁 Client-Server Programming and Web Development
+
+- ⌨️ Functional and Network Programming 
+- ☁️ Cloud Solutions for AWS 🛩️ Micro-Services
+- 🧠 Nueral Networks, Data Pipelines, Machine Learning and AI
+
 
 #### Languages and Frameworks  
-> 
 
 1. Go
 2. Python
 4. 🏃‍♂️ FastAPI, Flask
-5. 🍋 Gin or other Go routers
+5. 🍋 Gin, Hugo 
 
 ## 🚀 Tech Stack  
 
@@ -38,28 +36,6 @@ I build **scalable systems and cloud-native applications** with a focus on:
 
 ## 🌟 Motto  
 > *“Simplicity, reliability, and scalability — build once, build right.”*
-
-## Techonology Approaches 
-
-
-- 🏏 Application and Database Design, Development and Testing
-
-- ☁️ Cloud Architecture, Network Design and Serverless Solutions
-
-- 🪐 AI/ML and Deep Learning
-
--  🦀 **Systems Development** — Go, Rust, Python
-    
-- 🛠 **Automation & IaC** — Ansible, Terraform  
-
-- 🖌️ Software Design and Development
-
-- 📡 Data Capture – Deploying Edge devices synchronously and automatically collect, process and store data
-
-- 🔓 Authentication Services
-
-- 👭 Client-Server Programming
-
 
   
 ## Certifcations ☑️
