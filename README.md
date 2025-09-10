@@ -103,7 +103,7 @@ I build **scalable systems and cloud-native applications** with a focus on:
 - Programming Rust - O'Reilly
 - Data Structures - The fun way
 - The Nature of Code - Simulating Natural Systems
-- SuperIntelligence - Nick Bostrom (Insights into philosphy and ethics of humanity coexisting with superintelligent systems)
+- SuperIntelligence - Nick Bostrom 
 - Nexus - A brief history of Information Networks from the Stone Age to AI - Yuval Noah Harari
 - Designing Data Intensive Applications
 - Clean Code - Great book outlining best practices and concepts
