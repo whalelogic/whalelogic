@@ -10,7 +10,7 @@ I build **scalable systems and cloud-native applications** with a focus on:
 - ☁️ Cloud infrastructure and automation  
 - 🧠 AI-driven applications and agents
 - 🍍 Data-Intensive Applications
-- 🛩️ Micro-Services Development
+- 🛩️ Micro-Services
 - 💂‍♂️ Security, Authentication and Identity Management
 
 ---
