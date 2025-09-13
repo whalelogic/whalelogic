@@ -5,7 +5,7 @@
 ---
 
 ## 🐻‍❄️ Motto  
-> “Slow is Fast and Fast is Smooth...
+> “Slow is Smooth, Smooth is Fast...
 
 
 
