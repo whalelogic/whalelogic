@@ -1,17 +1,19 @@
-# 🌊 WhaleLogic  
+# 🐋 WhaleLogic ಄
 
 ### ⭐ *Veteran Systems Developer & Cloud Engineer* ⭐  
 
 ---
 
-## 🌟 Motto  
+## 🐻‍❄️ Motto  
 > “Slow is Fast and Fast is Smooth...
 
 
 
-## 🐋 About Me  
+## 🌊 About Me  
 
-I design and develop custom, **Cloud-Native Scalable Solutions** with a focus on:  
+🦉 I design and develop **Cloud-Native Scalable Solutions** for small businesses and B2B Operations.
+
+## 🔎 Focus: 
 
 - ⌨️ Functional and Network Programming 
 - 🧪 Data Pipelines
@@ -22,29 +24,35 @@ I design and develop custom, **Cloud-Native Scalable Solutions** with a focus on
 
 > Managed cloud hosting services are provided through my company, WhaleLogic LLC
 
-#### Languages and Frameworks  
+## 🛠️ Tools and Languages 🗣️
 
-1. 🐐 Go
-2. 🐍 Python
-4. 🌪️ FastAPI, Flask
-5. 🍋 Gin, Hugo 
-
-## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="110" height="90" alt="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="110" height="90" alt="Python"/>
-  <img src="ansible.svg" width="110" height="90" alt="Ansible"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="110" height="90" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="110" height="90" alt="Rust"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="110" height="90" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" width="100" height="90" alt="gRPC"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="80" height="80" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="80" height="80" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80" height="80" alt="Python"/>      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="80" height="80" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" width="80" height="80" alt="js"/>         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" width="80" height="80" alt="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original-wordmark.svg" width="80" height="80" alt="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="80" height="80" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="80" height="80" alt="Docker"/>
 </p>
+
+
+- 🦤 Terraform
+- 🐫 MongoDB, Redis, MySql
+- 🐝 Tailwind and Material UI
+- 🐌 Django, Flask and FastAPI
+- 🍋 Gin and Echo 🦘 Routers
+- 🦍 Gorilla Mux 🦩 Hugo
+- 🧬 TCP/UDP/gRPC 
 
 ---
 
   
-## Certifcations ☑️
+## 🎆 Certifcations 🥇
 
 <ul>
         <li>C++ Developer</li>
@@ -53,7 +61,7 @@ I design and develop custom, **Cloud-Native Scalable Solutions** with a focus on
         <li>AWS Developer</li>
 </ul>
 
-## 🏫 Education and Military Service 🪖 🇺🇸
+# 🎓 Education and Military Service 🪖 🇺🇸
 
 
 <ul>
