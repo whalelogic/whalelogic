@@ -1,12 +1,17 @@
 # 🌊 WhaleLogic  
 
-### ⭐ *Motivated Systems Developer & Cloud Engineer* ⭐  
+### ⭐ *Veteran Systems Developer & Cloud Engineer* ⭐  
 
 ---
 
+## 🌟 Motto  
+> “Slow is Fast and Fast is Smooth...
+
+
+
 ## 🐋 About Me  
 
-I build **Scalable Systems and Cloud-native Solutions** with a focus on:  
+I design and develop custom, **Cloud-Native Scalable Solutions** with a focus on:  
 
 - ⌨️ Functional and Network Programming 
 - 🧪 Data Pipelines
@@ -15,12 +20,13 @@ I build **Scalable Systems and Cloud-native Solutions** with a focus on:
 - 🫧 Micro-Services Architecture 
 - 🧠 Nueral Networks, Machine Learning and AI
 
+> Managed cloud hosting services are provided through my company, WhaleLogic LLC
 
 #### Languages and Frameworks  
 
-1. Go
-2. Python
-4. 🏃‍♂️ FastAPI, Flask
+1. 🐐 Go
+2. 🐍 Python
+4. 🌪️ FastAPI, Flask
 5. 🍋 Gin, Hugo 
 
 ## 🚀 Tech Stack  
@@ -36,9 +42,6 @@ I build **Scalable Systems and Cloud-native Solutions** with a focus on:
 </p>
 
 ---
-
-## 🌟 Motto  
-> *“Simplicity, reliability, and scalability — build once, build right.”*
 
   
 ## Certifcations ☑️
