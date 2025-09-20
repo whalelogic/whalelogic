@@ -1,19 +1,25 @@
-# 🐋 WhaleLogic ಄
+# Welcome 👋 I'm Keith.
 
-### ⭐ *Veteran Systems Developer & Cloud Engineer* ⭐  
+### **Systems Developer & Cloud Engineer** ⭐  
 
----
+#### I ❤️ developing tools for the Cloud! 
 
-## 🐻‍❄️ Motto  
-> “Slow is Smooth, Smooth is Fast...
+### **PaaS, IaaS and SaaS** are my focuses. 
 
 
+Go and Python are my core languages, however, I'll use any language the project/software requires. 
+
+## 🐻‍❄️ Motto's and Quotes
+
+>###  “Slow is Smooth and Smooth is Fast. 
+<br>
 
 ## 🌊 About Me  
 
-🦉 I design and develop **Cloud-Native Scalable Solutions** for small businesses and B2B Operations.
+🏗️ I design and develop **Cloud-Native Solutions** that are scalable and efficent. I also provide Data Quality Assurance and labeling services. 
 
-## 🔎 Focus: 
+<br>
+## 🔎 Focuses: 
 
 - ⌨️ Functional and Network Programming 
 - 🧪 Data Pipelines
@@ -24,6 +30,8 @@
 
 > Managed cloud hosting services are provided through my company, WhaleLogic LLC
 
+<br>
+
 ## 🛠️ Tools and Languages 🗣️
 
 
@@ -33,11 +41,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80" height="80" alt="Python"/>      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="80" height="80" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" width="80" height="80" alt="js"/>         
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" width="80" height="80" alt="GraphQL" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original-wordmark.svg" width="80" height="80" alt="hugo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original-wordmark.svg" width="80" height="80" alt="alpinejs" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" height="80" alt="AWS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"width="80" height="80" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" height="80" alt="AWS"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="80" height="80" alt="vue"/>
+  
 </p>
 
 
