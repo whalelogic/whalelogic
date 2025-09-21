@@ -20,59 +20,24 @@
 
 <br>
 
-## 🛠️ Tools and Languages 
+## 🛠️ Tools and Technologies 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,bash,js,linux,docker,bun,git,github,aws,gcp,terraform,mysql,mongodb,fastapi" />
+  </a>
+</p>
 
 
-
-<div align="center">
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" height="60"/>
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" height="60"/>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" height="60"/>
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="60"/>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" height="60"/>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" height="60"/>
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="60"/>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud" height="60"/>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" alt="DigitalOcean" height="60"/>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" alt="FastAPI" height="60"/>
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fiber/fiber-original.svg" alt="Fiber" height="60"/>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original-wordmark.svg" alt="HTMX" height="60"/>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original-wordmark.svg" alt="Alpine.js" height="60"/>
-  </p>
-</div>
-
-
-- 🐛 Terraform
-- 🐬 MongoDB, Redis, MySql
-- 🌪️ Tailwind and Material UI
-- 🦘 Django and FastAPI
-- 🍋 Gin and Echo 
-- 🦍 Gorilla Mux
-- 🐼 Hugo
-- 🕸️ TCP/UDP/gRPC 
+- 🛕 Templ, Hugo
+- 🍋 Gin, Fiber, Chi Router
+- 🕸️ TCP/UDP/gRPC
 
 <br>
 
 ## 🌊 About Me  
 
-🏗️ I design and develop **Cloud-Native Solutions** that are scalable and efficent. I also provide Data Processing and Quality Assurance services as well as data labeling, migrations, database design, etc. __Let me prepare your data for Artificial Intelligence!__
+🏗️ I design and develop **Cloud-Native Solutions** that are scalable and efficent. I also provide Data Processing and Quality Assurance services such as data labeling, migrations, database design, etc. __Let me prepare your data for Artificial Intelligence!__
 
 * Go and Python are my core languages, but I will use the language that makes sense for the project.
 * Being a Dad is the greatest gift!
