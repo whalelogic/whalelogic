@@ -12,7 +12,7 @@
 - ⌨️ Functional and Network Programming 
 - 🧪 Data Pipelines
 - 🛩️ IoT, Edge Devices, Remote solutions
-- 📱 Mobile Application Developerment
+- 📱 Web ➕ Mobile Application Developerment
 - 📰 Information Systems for Finance & eBusiness 
 - 🫧 Micro-Services Architecture 
 - 🧠 Nueral Networks, Machine Learning and AI
