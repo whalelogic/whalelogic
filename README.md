@@ -2,7 +2,17 @@
 
 **I am:** Keith Thomson
 
-### Cloud Engineer ☁️ Software Developer🍦  
+## 😶‍🌫️☁️ Cloud Engineer 🍦🍊 Software Developer🍦Icon Paster
+
+<br>
+
+## 🌊 About Me  
+
+🏗️ I design and develop **Cloud-Native Solutions** that are scalable and efficent. I also provide Data Processing and Quality Assurance services such as data labeling, migrations, database design, etc. __Let me prepare your data for Artificial Intelligence!__
+
+* Go and Python are my core languages, but I will use the language that makes sense for the project.
+* Being a Dad is the greatest gift!
+* I'm available to work part-time.
 
 <br>
 
@@ -20,28 +30,16 @@
 
 <br>
 
-## 🛠️ Tools and Technologies 
+## 🛠️ Tools, Languages and Technologies 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,bash,js,linux,docker,bun,git,github,aws,gcp,terraform,mysql,mongodb,fastapi" />
+    <img src="https://skillicons.dev/icons?i=go,py,bash,js,linux,docker,kubernetes,bun,git,github,aws,gcp,terraform,htmx,pytorch,md,raspberrypi,mysql,html,css,redis,mongodb,dynamodb,postgres,fastapi,figma,dart,graphql,postman,nuxt,neovim,pycharm&theme=dark&perline=8" />
   </a>
 </p>
 
 
-- 🛕 Templ, Hugo
-- 🍋 Gin, Fiber, Chi Router
-- 🕸️ TCP/UDP/gRPC
-
 <br>
-
-## 🌊 About Me  
-
-🏗️ I design and develop **Cloud-Native Solutions** that are scalable and efficent. I also provide Data Processing and Quality Assurance services such as data labeling, migrations, database design, etc. __Let me prepare your data for Artificial Intelligence!__
-
-* Go and Python are my core languages, but I will use the language that makes sense for the project.
-* Being a Dad is the greatest gift!
-* I'm available to work part-time.
 
 #### I ❤️ developing tools for the Cloud!
 
