@@ -2,7 +2,7 @@
 
 **I am:** Keith Thomson
 
-## 😶‍🌫️☁️ Cloud Engineer 🍦🍊 Software Developer🍦Icon Paster
+## 😶‍🌫️☁️ Programmer - Cloud Architect
 
 <br>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,bash,js,linux,docker,kubernetes,bun,git,github,aws,gcp,terraform,htmx,pytorch,md,raspberrypi,mysql,html,css,redis,mongodb,dynamodb,postgres,fastapi,figma,dart,graphql,postman,nuxt,neovim,pycharm&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=go,py,linux,regex,docker,kubernetes,github,bash,alpinejs,nodejs,aws,gcp,azure,git,terraform,ansible,pytorch,tensorflow,vscode,postgres,mongodb,dynamodb,fastapi,htmx&theme=dark&perline=8" />
   </a>
 </p>
 
