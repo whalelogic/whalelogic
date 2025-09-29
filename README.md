@@ -2,7 +2,7 @@
 
 **I am:** Keith Thomson
 
-## 😶‍🌫️☁️ Programmer - Developer - Cloud Solutions Architect
+## 😶‍🌫️☁️ Software Development & Cloud Solutions 
 
 <br>
 
