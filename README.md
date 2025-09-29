@@ -1,9 +1,6 @@
 # Welcome 👋  
 
 **I am:** Keith Thomson
-
-## 😶‍🌫️☁️ Software Development & Cloud Solutions 
-
 <br>
 
 ## 🌊 About Me  
