@@ -27,7 +27,9 @@
 
 <br>
 
-## 🛠️ Tools, Languages and Technologies 
+## 🛠️ Languages, Tools and Technologies 
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,23 +37,7 @@
   </a>
 </p>
 
-
 <br>
-
-#### I ❤️ developing tools for the Cloud!
-
-<br>
-
-#### 📛 Corrupt or poor quality data is the #1 cause of business application processing failures. 
-
-<br>
-
-## 🐻‍❄️ Motto
-
-####  “Slow is Smooth and Smooth is Fast."
-
-<br>
-
 
 <div align="left">
   <span><h2>Partnerships and Associations</h2></span>
