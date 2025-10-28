@@ -60,7 +60,7 @@
 
 <ul>
         <li> A.S. Computer Science - Cloud Computing 👨‍🎓 </li>    
-        <li>B.S. Computer Science - Information Systems <em>Expected this Spring</em></li>
+        <li>B.S. Computer Science - Information Systems <em>Class of Spring 2026</em></li>
         <li>🎖️ US Army Veteran 🪖 1st Cav 🇺🇸 🇮🇶 </li>
 </ul>
 
