@@ -16,7 +16,7 @@ I design and develop **Cloud-Native Solutions** that are scalable and efficent. 
 ## 🔎 Focuses: 
 
 - 🛰️ IaaS, PaaS, SaaS
-- ⌨️ Functional and Network Programming 
+- ⌨️ Functional, Object-Oriented and Network Programming Skills 
 - 🧪 Data Pipelines
 - 🛩️ IoT, Edge Devices, Remote solutions
 - 🕸️ Web ➕ Mobile Application Development
