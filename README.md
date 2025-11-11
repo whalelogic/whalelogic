@@ -7,10 +7,6 @@
 
 I design and develop **Cloud-Native Solutions** that are scalable and efficent. I also provide Data Processing and Quality Assurance services, data labeling, migrations, database design, etc. __Let me prepare your data for Artificial Intelligence!__
 
-* Go and Python are my core languages, but I will use the language that makes sense for the project.
-* Being a Dad is the greatest gift!
-* I'm available to work part-time.
-
 <br>
 
 ## 🔎 Focuses: 
