@@ -46,13 +46,12 @@ I design and develop **Cloud-Native Solutions** that are scalable and efficent. 
         <li>AWS Developer</li>
 </ul>
 
-# 🎓 Education and Military Service
+# 🎓 Education
 
 
 <ul>
         <li> A.S. Computer Science - Cloud Computing 👨‍🎓 </li>    
         <li>B.S. Computer Science - Information Systems <em>Class of Spring 2026</em></li>
-        <li>🎖️ US Army Veteran 🪖 1st Cav 🇺🇸 🇮🇶 </li>
 </ul>
 
 📫 How to reach me: email me at CamelByte@proton.me or thomsonk2@southernct.edu
