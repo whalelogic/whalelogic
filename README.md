@@ -6,14 +6,15 @@ I design and develop **Cloud-Native Solutions** that are scalable and efficent. 
 
 ## 🔎 Focuses: 
 
-- 🛰️ IaaS, PaaS, SaaS
-- ⌨️ Functional, Object-Oriented and Network Programming Skills 
-- 🧪 Data Pipelines
-- 🛩️ IoT, Edge Devices, Remote solutions
-- 🕸️ Web ➕ Mobile Application Development
-- 📰 Information Systems for Finance & eBusiness 
+- 🛰️ Cloud Architecture 
+- ⌨️ Object-Oriented and Network Programming 
+- 🧪 Data Pipelines - SQL and NoSQL
+- 🉐 GraphQL, RESTful APIs
+- 🛩️ IoT, Remote Sensing and Object Detection
+- 🧠 Machine Learning
+- 🗺️ GIS, Maps
+- 🕸️ Application Development
 - 🫧 Micro-Services Architecture 
-- 🧠 Nueral Networks, Machine Learning and AI
 
 
 <br>
