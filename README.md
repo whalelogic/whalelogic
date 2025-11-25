@@ -1,6 +1,6 @@
 # Welcome 👋  
 
-I design and develop **Cloud-Native Solutions** that are scalable and efficent. I also provide Data Processing and Quality Assurance services, data labeling, migrations, batch processing, testing, and more. 
+I design and develop **Cloud-Native Solutions** that are scalable and efficent. 
 
 <br>
 
