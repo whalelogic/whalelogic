@@ -31,30 +31,6 @@ I design and develop **Cloud-Native Solutions** that are scalable and efficent.
 
 <br>
 
-<div align="left">
-  <span><h2>Partnerships and Associations</h2></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" height="100" width="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg" height="100" width="100" />
-</div>
-
-
-## 🥇 Certifcations
-
-<ul>
-        <li>C++ Developer</li>
-        <li>CompTIA A+</li>
-        <li>AWS Cloud Practitioner</li>
-        <li>AWS Developer</li>
-</ul>
-
-# 🎓 Education
-
-
-<ul>
-        <li> A.S. Computer Science - Cloud Computing 👨‍🎓 </li>    
-        <li>B.S. Computer Science - Information Systems <em>Class of Spring 2026</em></li>
-</ul>
-
 📫 How to reach me: email me at CamelByte@proton.me or thomsonk2@southernct.edu
 
 ## 📚 Interesting Books 
