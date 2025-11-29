@@ -1,7 +1,6 @@
 # Welcome 👋  
 
-Hi! I'm Keith - A veteran **Programmer** developing **Cloud Solutions and Applications** that are scalable and efficent. 
-
+Keith Thomson is a veteran **Programmer** and **Developer** interested in building **Cloud-Native Solutions** and **Applications** that are practical and efficent. 
 <br>
 
 ## 🔎 Focuses: 
