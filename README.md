@@ -24,7 +24,7 @@ Keith Thomson is a veteran **Programmer** and **Developer** interested in buildi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,linux,regex,docker,kubernetes,github,bash,alpinejs,nodejs,aws,gcp,azure,git,terraform,ansible,pytorch,tensorflow,vscode,postgres,mongodb,dynamodb,fastapi,htmx&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=go,py,cpp,linux,bun,ruby,js,bash,regex,github,postman,alpinejs,nodejs,aws,gcp,azure,git,terraform,ansible,docker,mongodb,dynamodb,kubernetes,htmx&theme=dark&perline=8" />
   </a>
 </p>
 
