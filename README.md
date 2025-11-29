@@ -1,6 +1,6 @@
 # Welcome 👋  
 
-I design and develop **Cloud-Native Solutions** that are scalable and efficent. 
+Hi! I'm Keith - A veteran **Programmer** developing **Cloud Solutions and Applications** that are scalable and efficent. 
 
 <br>
 
