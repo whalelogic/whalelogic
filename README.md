@@ -8,7 +8,7 @@ Keith Thomson is a veteran **Programmer** and **Developer** interested in buildi
 - 🛰️ Cloud Architecture 
 - ⌨️ Object-Oriented and Network Programming 
 - 🧪 Data Pipelines - SQL and NoSQL
-- 🉐 GraphQL, RESTful APIs
+- 🉐 GraphQL, RESTful, RPC and Websockets
 - 🛩️ IoT, Remote Sensing and Object Detection
 - 🧠 Machine Learning
 - 🗺️ GIS, Maps
