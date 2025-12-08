@@ -1,6 +1,6 @@
 # Welcome 👋  
 
-Keith Thomson is a veteran **Programmer** and **Developer** interested in building **Cloud-Native Solutions** and **Applications** that are practical and efficent. 
+**US Army Veteran** - **Programmer** - **Cloud Developer** interested in designing and developing **Cloud-Native Solutions** and **Data-Intensive Applications** that are practical and efficent. 
 <br>
 
 ## 🔎 Focuses: 
@@ -11,8 +11,8 @@ Keith Thomson is a veteran **Programmer** and **Developer** interested in buildi
 - 🉐 GraphQL, RESTful, RPC and Websockets
 - 🛩️ IoT, Remote Sensing and Object Detection
 - 🧠 Machine Learning
-- 🗺️ GIS, Maps
-- 🕸️ Application Development
+- 🔒  Cyber-Security
+- 🕸️ Web, Database and CLI Application Development
 - 🫧 Micro-Services Architecture 
 
 
