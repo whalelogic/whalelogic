@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,rust,linux,markdown,awk,ruby,js,bash,regex,github,postman,alpinejs,nodejs,aws,gcp,azure,git,terraform,ansible,docker,mongodb,dynamodb,kubernetes,htmx&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=go,py,rust,linux,markdown,flask,fastapi,redis,bash,regex,github,postman,alpinejs,nodejs,aws,gcp,azure,git,terraform,ansible,docker,typescript,kubernetes,htmx&theme=dark&perline=8" />
   </a>
 </p>
 
