@@ -15,7 +15,7 @@ I specialize in building dynamic utilities on top of distributed systems. My app
 
 I believe in replacing abstract complexity with clear, visualizable architectures and practical, runnable code.
 
-- 🔭 **Currently architecting:** Multi-agent market simulation engines and distributed state management utilities.
+- 🔭 **Currently architecting:** Micro-services, Multi-agent engines, Agentic workflows, tools and applicaiton utilities.
 - 🌱 **Academia:** Providing references and guides to help students learn to code in Golang through comprehensive insights and examples.
 - 💬 **Ask me about:** The Go programming language, Cloud Network Architecture, Bash scripting, Regular Expressions, Unix Kernels, or Agentic Workflows.
 
