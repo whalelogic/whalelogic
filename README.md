@@ -17,7 +17,7 @@ I believe in replacing abstract complexity with clear, visualizable architecture
 
 - 🔭 **Currently architecting:** Micro-services, Multi-agent engines, Agentic workflows, tools and applicaiton utilities.
 - 🌱 **Academia:** Providing references and guides to help students learn to code in Golang through comprehensive insights and examples.
-- 💬 **Ask me about:** The Go programming language, Cloud Network Architecture, Bash scripting, Regular Expressions, Unix Kernels, or Agentic Workflows.
+- 💬 **Ask me about:** Linux, Go and Python, Network Programming, Agent Development and Use Case Research, MCP, RAG Pipelines, Data Engineering, Agile, Cloud Development, Infrastructure-as-Code, Application and Utility, Command-line tools and Bash.
 
 ## 🧰 My Toolkit
 
@@ -29,12 +29,8 @@ I believe in replacing abstract complexity with clear, visualizable architecture
 #### **Certified Information Systems Professional**
 - ***AWS Cloud Pracitioner***
 - ***Security+***
-- 👨‍🎓 A.S. Computer Science - ***Cloud Computing***
-- **Current Student** SCSU B.S. Computer Science - ***Information Systems***. 
-- **Agile Software Development**
-- **Cloud Solutions** - Architecture, Serverless, Network, Data Engineering
-- **Programmer-Developer**
-- **Focuses** Academia, Research, Cloud-Native Application Development, Infrastructure-as-Code, Application and Utility, Command-line tool Development
-- **US Army Veteran**
+- 👨‍🎓 A.S. Computer Science - Cloud Computing
+- 👨‍🎓 B.S. Computer Science - Information Systems ***(Class of 2026)***
+- 🪖 **US Army Veteran**
 
 
