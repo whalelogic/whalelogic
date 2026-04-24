@@ -9,11 +9,7 @@
 
 ## ⚙️ Philosophy
 
-I specialize in building dynamic utilities on top of distributed systems. My approach is rooted in the Unix philosophy: 
-
-> Write programs that do one thing and do it well, and build systems that are easy to understand.
-
-I believe in replacing abstract complexity with clear, visualizable architectures and practical, runnable code.
+Write programs that do one thing and do it well, and build systems that are easy to understand.
 
 - 🔭 **Currently exploring:** Multi-agent engines, Micro services, MCP servers, Machine Learning, Algorithms, Generative AI | AI use cases, Command-line tools and application utilities.
 - 💬 **Ask me about:** Linux, 🐋, programming and general software development stuff.
