@@ -9,7 +9,7 @@
 
 ## ⚙️ Philosophy
 
-Write programs that do one thing and do it well, and build systems that are easy to understand.
+> Write programs that do one thing and do it well, and build systems that are easy to understand.
 
 - 🔭 **Currently exploring:** Multi-agent engines, Micro services, MCP servers, Machine Learning, Algorithms, Generative AI | AI use cases, Command-line tools and application utilities.
 - 💬 **Ask me about:** Linux, 🐋, programming and general software development stuff.
