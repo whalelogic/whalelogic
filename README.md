@@ -2,14 +2,13 @@
   <h1>Hey, I'm Keith 🦀</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1e88e5&center=true&vCenter=true&width=600&lines=Architecting+systems+with+Go+%26+Rust;AWS+Solutions+Engineer;DevOps+Expert;Simplifying+complexity+at+scale." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1e88e5&center=true&vCenter=true&width=600&lines=Architecting+systems+with+Go+%26+Python;CloudOps+Engineer;Simplifying+complexity+at+scale." alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/AWS-Solutions_Engineer-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-DevOps-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-Terraform-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=cyan" />
     <img src="https://img.shields.io/badge/Security%2B-Certified-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/Status-Navy_Contractor-001244?style=flat-square" />
   </p>
 </div>
 
