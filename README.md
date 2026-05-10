@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I'm Keith 🦀</h1>
+  <h1>Keith Thomson</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1e88e5&center=true&vCenter=true&width=600&lines=Architecting+systems+with+Go+%26+Python;CloudOps+Engineer;Simplifying+complexity+at+scale." alt="Typing SVG" />
@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,redhat,bash,go,rust,python,postgres,redis,mongodb,docker,kubernetes,ansible,terraform,aws,azure,gcp&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=linux,redhat,bash,go,python,docker,kubernetes,ansible,terraform,aws,azure,gcp,postgres,redis,mongodb&theme=dark" alt="My Skills" />
   </a>
 </div>
 
