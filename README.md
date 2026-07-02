@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>:wave: Welcome!</h1>
+  <h1>:wave: Welcome!   🐋</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1e88e5&center=true&vCenter=true&width=600&lines=Architecting+systems+with+Go+%26+Python;CloudOps+Engineer;Simplifying+complexity+at+scale." alt="Typing SVG" />
