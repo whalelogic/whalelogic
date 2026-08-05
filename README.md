@@ -42,4 +42,7 @@
   <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Terminal-Wezterm-3D3D3D?style=for-the-badge&logo=wezterm&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-Zsh-F1502F?style=for-the-badge&logo=zsh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white" />
+
 </div>
