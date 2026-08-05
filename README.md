@@ -27,7 +27,7 @@
 * **👨‍💼 Current Ops:** Federal Contractor for the **US Navy**, focusing on mission-critical systems.
 * **🎓 Education:** Pursuing 2nd degree in Computer Science — **Class of 2026**.
 * **🪖 Service:** Proud **US Army Combat Veteran** | Infantry | 1st Cavalry Division.
-* **💬 Intel:** Ask me about Linux, programming, or why the sky is blue.
+* **💬 Intel:** Ask me about Linux, Cloud, or why the sky is blue.
 
 
 ### 📊 Activity Metrics
