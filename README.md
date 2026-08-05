@@ -26,7 +26,7 @@
 ### 🛰️ Mission Log
 * **👨‍💼 Current Ops:** Federal Contractor for the **US Navy**, focusing on mission-critical systems.
 * **🎓 Education:** Pursuing 2nd degree in Computer Science — **Class of 2026**.
-* **🪖 Service:** Proud **US Army Combat Veteran** | 11b Infantry | 1st Cavalry Division.
+* **🪖 Service:** Proud **US Army Combat Veteran** | Infantry | 1st Cavalry Division.
 * **💬 Intel:** Ask me about Linux, programming, or why the sky is blue.
 
 
